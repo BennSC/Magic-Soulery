@@ -1,2 +1,3 @@
 # Magic-Soulery
-mincreaft magic based mod
+Create crazy magic by stealing the souls of your enemies.
+Made by BennSC and StellarMagician.
